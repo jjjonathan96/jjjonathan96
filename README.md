@@ -16,10 +16,9 @@
 ## 📂 Featured Projects
 | Project Name | Description | Link |
 |--------------|-------------|------|
+|[AI Agent RAG-based CV tailroing](https://github.com/jjjonathan96/Agent-based-RAG-system-for-CV-tailoring-and-ATS-checking) | Retrieval-Augmented Generation chatbot using Haystack and Weaviate | [Repo](https://github.com/jjjonathan96/Agent-based-RAG-system-for-CV-tailoring-and-ATS-checking) |
+|[RAG base Q&A](https://github.com/jjjonathan96/Past-paper-Q-A-using-LLM-and-Langchain)|RAG base question and anwsering|[Repo](https://github.com/jjjonathan96/Past-paper-Q-A-using-LLM-and-Langchain)|
 | [Multimodal E-commerce Recommendation](https://github.com/jjjonathan96/multimodal_LLM_Ecommerce_recommendation) | Personalized seasonal prediction using LLM | [Repo](https://github.com/jjjonathan96/multimodal_LLM_Ecommerce_recommendation)|
-| [AI Agent RAG-based CV tailroing](https://github.com/jjjonathan96/Agent-based-RAG-system-for-CV-tailoring-and-ATS-checking) | Retrieval-Augmented Generation chatbot using Haystack and Weaviate | [Repo](https://github.com/jjjonathan96/Agent-based-RAG-system-for-CV-tailoring-and-ATS-checking) |
-|RAG base Q&A|RAG base question and anwsering|[Repo](https://github.com/jjjonathan96/Past-paper-Q-A-using-LLM-and-Langchain)|
-
 ---
 
 ⭐️ If you like my work, feel free to follow me!
