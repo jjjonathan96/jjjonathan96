@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a Data Scientist & Machine Learning Engineer
-- 🌱 I’m learning advanced NLP and LLM development
+- 🌱 I’m learning advanced AI Agent, RAG, Computer Vision, NLP and LLM development
 - 💬 Ask me about Python, Machine Learning, Data Science, and AI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/johnny941/) | [Email](mailto:johnnyjonathan008@gmail.com)
 
