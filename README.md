@@ -17,7 +17,7 @@
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | [Multimodal E-commerce Recommendation](https://github.com/jjjonathan96/multimodal-recommendation) | Personalized seasonal prediction using LLM | [Repo](https://github.com/jjjonathan96/multimodal-recommendation) |
-| [RAG-based Chatbot](https://github.com/jjjonathan96/rag-chatbot) | Retrieval-Augmented Generation chatbot using Haystack and Weaviate | [Repo](https://github.com/jjjonathan96/rag-chatbot) |
+| [RAG-based Chatbot](https://github.com/jjjonathan96/rag-chatbot) | Retrieval-Augmented Generation chatbot using Haystack and Weaviate | [Repo]([https://github.com/jjjonathan96/rag-chatbot](https://github.com/jjjonathan96/Agent-based-RAG-system-for-CV-tailoring-and-ATS-checking)) |
 
 ---
 
